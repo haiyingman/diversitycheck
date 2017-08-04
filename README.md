@@ -1,1 +1,1 @@
-# diversitycheck-
+Diveristy check- Adriana Chavez, Alessandra Hayes, Haiying Man, and Ayelet Monas are building Diversity Check- a tool to help women and minorities find inclusive companies- as their final project for the Girls Who Code Summer Immersion Program at AppNexus New York.
